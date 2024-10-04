@@ -1,0 +1,6 @@
+Redirect 301 /redirect /support.html
+Redirect 301 /redirect /invite.html
+Redirect 301 /redirect /commands.html
+Redirect 301 /redirect /privacy.html
+Redirect 301 /redirect /terms.html
+Redirect 301 /redirect /vote.html
